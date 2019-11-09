@@ -29,3 +29,4 @@ The repo comes loaded with following datasets:
      The dataset consists of 27,588 images belonging to two separate classes: Parasitized/ Uninfected.
     The number of images per class i 13,794 images per each. The dataset is  originally from this [link](https://lhncbc.nlm.nih.gov/publication/pub9932))
 
+ ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_Santa.png)
