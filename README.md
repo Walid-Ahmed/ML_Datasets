@@ -14,7 +14,7 @@ The repo comes loaded with following datasets:
      ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_SportsClassification.png)
     
  5. Smile/noSmile datset:originally from this [link](https://github.com/hromi/SMILEsmileD)  
-  ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_Santa.png)
+  ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_SMILES.png)
  
  6. Food5K: 
  
