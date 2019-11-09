@@ -12,9 +12,9 @@ The repo comes loaded with following datasets (all in folder "datasets"):
     
  5. Smile/noSmile datset:originally from this [link](https://github.com/hromi/SMILEsmileD)  
  
- 6. Food5K: a [Kaggle](https://www.kaggle.com/binhminhs10/food5k)
+ 6. Food5K: 
  
-   dataset containing 2,500 food and 2,500 non-food images, originally from this [link](https://www.kaggle.com/binhminhs10/food5k/download))
+  a [Kaggle](https://www.kaggle.com/binhminhs10/food5k) dataset containing 2,500 food and 2,500 non-food images, originally from this [link](https://www.kaggle.com/binhminhs10/food5k/download))
 
  7. NIH malaria dataset:
  
