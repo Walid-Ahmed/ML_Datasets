@@ -1,6 +1,6 @@
 # ML_Datasets
 
-The repo comes loaded with following datasets (all in folder "datasets"):
+The repo comes loaded with following datasets:
  1. Santa/NoSanta: initially collected  by  Adrian Rosebrock
  2. Dogs/Cats
  3. Human/Horses
