@@ -2,7 +2,10 @@
 
 The repo comes loaded with following datasets:
  1. Santa/NoSanta: initially collected  by  Adrian Rosebrock
+ 
+ ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/imageclassifierSuite/blob/master/sampleImages/treeStructure.png)
  2. Dogs/Cats
+ 
  3. Human/Horses
  
  4. SportsClassification:
