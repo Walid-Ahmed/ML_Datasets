@@ -17,6 +17,7 @@ The repo comes loaded with following datasets (all in folder "datasets"):
    dataset containing 2,500 food and 2,500 non-food images, originally from this [link](https://www.kaggle.com/binhminhs10/food5k/download))
 
  7. NIH malaria dataset:
+ 
  The dataset consists of 27,588 images belonging to two separate classes: Parasitized/ Uninfected.
 The number of images per class i 13,794 images per each. The dataset is  originally from this [link](https://lhncbc.nlm.nih.gov/publication/pub9932))
 
