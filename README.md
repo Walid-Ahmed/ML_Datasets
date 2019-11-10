@@ -30,7 +30,7 @@ initially collected  by  Adrian Rosebrock
  ## Smile/noSmile datset:
  originally from this [link](https://github.com/hromi/SMILEsmileD)  
  
-it includes 13,165 images
+It includes 13,165 images. Total images of notsmiling is 9475 and total images of smiling is 3690 
 
   ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_SMILES.png)
  
