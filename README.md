@@ -6,7 +6,7 @@ The repo comes loaded with following datasets :
  2. [Dogs/Cats](#dogscats)
  3. [Human/Horses](#humanhorses)
  4. [SportsClassification](#sportsclassification)
- 5. [Smile/noSmile](#smilenosmile)
+ 5. [Smile/noSmile](#smilenosmile-dataset)
  6. [Food-5k](#food5k)
  7. [NIH malaria](#nih-malaria-dataset)
  
@@ -51,7 +51,7 @@ initially collected  by  Adrian Rosebrock
 [INFO] Total images of wwe is 667 .  
 
     
- ## Smile/noSmile datset:
+ ## Smile/noSmile dataset:
  originally from this [link](https://github.com/hromi/SMILEsmileD)  
  
 It includes 13,165 images. Total images of notsmiling is 9475 and total images of smiling is 3690 
