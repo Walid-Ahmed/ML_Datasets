@@ -46,33 +46,34 @@ initially collected  by  Adrian Rosebrock
   ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_horse-or-human.png)
   
  ## SportsClassification:
- 22 types of sports in a total of 14,405 images, originally from this [link](https://github.com/anubhavmaity/Sports-Type-Classifier)). The type of sports are [Swimming
-    ,Badminton,Wrestling,Olympic Shooting,Cricket,Football,Tennis,Hockey,Ice Hockey,Kabaddi,WWE,Gymnasium,Weight lifting,Volleyball,Table tennis,Baseball,Formula 1,Moto GP,Chess,Boxing,FencingBasketbal]
-     ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_SportsClassification.png)
+ 22 types of sports in a total of 14,405 images, originally from this [link](https://github.com/anubhavmaity/Sports-Type-Classifier)). 
+ The type of sports are [Swimming ,Badminton,Wrestling,Olympic Shooting,Cricket,Football,Tennis,Hockey,Ice Hockey,Kabaddi,WWE,Gymnasium,Weight lifting,Volleyball,Table tennis,Baseball,Formula 1,Moto GP,Chess,Boxing,FencingBasketbal]
+ 
+![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_SportsClassification.png)
     
-[INFO] Total images of datasets/SportsClassification is 14362 
-[INFO] Total images of datasets/SportsClassification/gymnastics is 711 
-[INFO] Total images of datasets/SportsClassification/wrestling is 601 
-[INFO] Total images of datasets/SportsClassification/football is 784 
-[INFO] Total images of datasets/SportsClassification/cricket is 665 
-[INFO] Total images of datasets/SportsClassification/baseball is 731 
-[INFO] Total images of datasets/SportsClassification/ice_hockey is 707 
-[INFO] Total images of datasets/SportsClassification/wwe is 667 
-[INFO] Total images of datasets/SportsClassification/basketball is 490 
-[INFO] Total images of datasets/SportsClassification/table_tennis is 705 
-[INFO] Total images of datasets/SportsClassification/volleyball is 703 
-[INFO] Total images of datasets/SportsClassification/motogp is 668 
-[INFO] Total images of datasets/SportsClassification/fencing is 624 
-[INFO] Total images of datasets/SportsClassification/hockey is 569 
-[INFO] Total images of datasets/SportsClassification/swimming is 683 
-[INFO] Total images of datasets/SportsClassification/chess is 476 
-[INFO] Total images of datasets/SportsClassification/tennis is 714 
-[INFO] Total images of datasets/SportsClassification/badminton is 928 
-[INFO] Total images of datasets/SportsClassification/boxing is 704 
-[INFO] Total images of datasets/SportsClassification/weight_lifting is 572 
-[INFO] Total images of datasets/SportsClassification/kabaddi is 452 
-[INFO] Total images of datasets/SportsClassification/formula1 is 676 
-[INFO] Total images of datasets/SportsClassification/shooting is 532 
+[INFO] Total images of datasets/SportsClassification is 14362<br/> 
+[INFO] Total images of datasets/SportsClassification/gymnastics is 711<br/> 
+[INFO] Total images of datasets/SportsClassification/wrestling is 601<br/> 
+[INFO] Total images of datasets/SportsClassification/football is 784<br/> 
+[INFO] Total images of datasets/SportsClassification/cricket is 665<br/> 
+[INFO] Total images of datasets/SportsClassification/baseball is 731<br/> 
+[INFO] Total images of datasets/SportsClassification/ice_hockey is 707<br/> 
+[INFO] Total images of datasets/SportsClassification/wwe is 667<br/> 
+[INFO] Total images of datasets/SportsClassification/basketball is 490<br/> 
+[INFO] Total images of datasets/SportsClassification/table_tennis is 705<br/> 
+[INFO] Total images of datasets/SportsClassification/volleyball is 703<br/> 
+[INFO] Total images of datasets/SportsClassification/motogp is 668<br/> 
+[INFO] Total images of datasets/SportsClassification/fencing is 624<br/> 
+[INFO] Total images of datasets/SportsClassification/hockey is 569<br/> 
+[INFO] Total images of datasets/SportsClassification/swimming is 683<br/> 
+[INFO] Total images of datasets/SportsClassification/chess is 476<br/> 
+[INFO] Total images of datasets/SportsClassification/tennis is 714<br/> 
+[INFO] Total images of datasets/SportsClassification/badminton is 928<br/> 
+[INFO] Total images of datasets/SportsClassification/boxing is 704<br/> 
+[INFO] Total images of datasets/SportsClassification/weight_lifting is 572<br/> 
+[INFO] Total images of datasets/SportsClassification/kabaddi is 452<br/> 
+[INFO] Total images of datasets/SportsClassification/formula1 is 676<br/> 
+[INFO] Total images of datasets/SportsClassification/shooting is 532<br/> 
  
 
     
@@ -81,9 +82,9 @@ initially collected  by  Adrian Rosebrock
  
 It includes 13,165 images. Total images of notsmiling is 9475 and total images of smiling is 3690 
 
-[INFO] Total images of datasets/SMILES is 13165 
-[INFO] Total images of datasets/SMILES/smiling is 3690 
-[INFO] Total images of datasets/SMILES/notsmiling is 9475 
+[INFO] Total images of datasets/SMILES is 13165<br/> 
+[INFO] Total images of datasets/SMILES/smiling is 3690<br/> 
+[INFO] Total images of datasets/SMILES/notsmiling is 9475<br/> 
 
   ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_SMILES.png)
  
@@ -108,8 +109,8 @@ It includes 13,165 images. Total images of notsmiling is 9475 and total images o
  The dataset consists of 27,588 images belonging to two separate classes: Parasitized/ Uninfected.
  The number of images per class is 13,794 images per each. The dataset is  originally from this [link](https://lhncbc.nlm.nih.gov/publication/pub9932))
 
-[INFO] Total images of datasets/NIHmalaria is 27558 
-[INFO] Total images of datasets/NIHmalaria/Parasitized is 13779 
-[INFO] Total images of datasets/NIHmalaria/Uninfected is 13779 
+[INFO] Total images of datasets/NIHmalaria is 27558<br/> 
+[INFO] Total images of datasets/NIHmalaria/Parasitized is 13779<br/> 
+[INFO] Total images of datasets/NIHmalaria/Uninfected is 13779<br/> 
 
  ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_NIHmalaria.png)
