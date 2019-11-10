@@ -10,7 +10,7 @@ The repo comes loaded with following datasets :
  6. [Food-5k](#food5k)
  7. [NIH malaria](#nih-malaria-dataset)
  
-All what you need is to clone the repo, feel free to fork the repo and add more datasets
+All what you need is to clone the repo, feel free to fork the repo and add more datasets.
 
 ## Santa/NoSanta
 Dataset  collected  by  [Adrian Rosebrock](https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/) 
