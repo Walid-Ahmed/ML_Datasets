@@ -33,7 +33,7 @@ initially collected  by  Adrian Rosebrock
 [INFO] Total images of boxing is 704  
 [INFO] Total images of chess is 476 .  
 [INFO] Total images of cricket is 665 .  
-[INFO] Total images of fencing is 624 
+[INFO] Total images of fencing is 624 .  
 [INFO] Total images of football is 784 .  
 [INFO] Total images of formula1 is 676 .  
 [INFO] Total images of gymnastics is 711 .  
