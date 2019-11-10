@@ -10,7 +10,7 @@ The repo comes loaded with following datasets :
  6. [Food-5k](#head1234)
  7. [NIH malaria](#head1234)
  
-All what you need is to clone the repo, feel free to fork the repo and add more datsets
+All what you need is to clone the repo, feel free to fork the repo and add more datasets
 
 ## Santa/NoSanta
 initially collected  by  Adrian Rosebrock 
