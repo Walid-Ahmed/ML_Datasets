@@ -9,6 +9,8 @@ The repo comes loaded with following datasets :
  5. [Smile/noSmile](#head1234)
  6. [Food-5k](#head1234)
  7. [NIH malaria](#head1234)
+ 
+All what you need is to clone the repo, feel free to fork the repo and add more datsets
 
 ## Santa/NoSanta
 initially collected  by  Adrian Rosebrock 
