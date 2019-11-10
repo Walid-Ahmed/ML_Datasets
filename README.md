@@ -5,7 +5,7 @@ The repo comes loaded with following datasets :
  1. [Santa/NoSanta](#head1234)
  2. [Dogs/Cats](#head1234)
  3. [Human/Horses](#head1234)
- 4. [SportsClassification](#head1234)
+ 4. [SportsClassification](#sportsclassification)
  5. [Smile/noSmile](#head1234)
  6. [Food-5k](#head1234)
  7. [NIH malaria](#head1234)
