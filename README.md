@@ -109,4 +109,8 @@ It includes 13,165 images. Total images of notsmiling is 9475 and total images o
  The dataset consists of 27,588 images belonging to two separate classes: Parasitized/ Uninfected.
  The number of images per class is 13,794 images per each. The dataset is  originally from this [link](https://lhncbc.nlm.nih.gov/publication/pub9932))
 
+[INFO] Total images of datasets/NIHmalaria is 27558 
+[INFO] Total images of datasets/NIHmalaria/Parasitized is 13779 
+[INFO] Total images of datasets/NIHmalaria/Uninfected is 13779 
+
  ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_NIHmalaria.png)
