@@ -29,6 +29,11 @@ initially collected  by  Adrian Rosebrock
     
  ## Smile/noSmile datset:
  originally from this [link](https://github.com/hromi/SMILEsmileD)  
+ 
+it includes 13,165 images
+[INFO] Dataset of trainLabels shape (3292, 64, 64, 1)
+[INFO] Dataset of testData shape (9873, 1)
+[INFO] Dataset of testLabels shape (3292, 1)
   ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_SMILES.png)
  
  ## Food5K: 
