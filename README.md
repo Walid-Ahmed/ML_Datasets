@@ -25,6 +25,7 @@ Dataset  collected  by  [Adrian Rosebrock](https://www.pyimagesearch.com/2017/12
 ## Dogs/Cats
 
 Dataset from [kaggle](https://www.kaggle.com/c/dogs-vs-cats)
+
 [INFO] Total images of datasets/cats_and_dogs is 3000<br/>
 [INFO] Total images of datasets/cats_and_dogs/train is 2000<br/> 
 [INFO] Total images of datasets/cats_and_dogs/train/dogs is 1000<br/> 
