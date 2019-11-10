@@ -40,7 +40,7 @@ Dataset from [kaggle](https://www.kaggle.com/c/dogs-vs-cats)
 Dataset from [kaggle](https://www.kaggle.com/sanikamal/horses-or-humans-dataset)
 
 
-[INFO] Total images of datasets/horse-or-human is 1283<br/> 
+[INFO] Total images of datasets/horse-or-human is 1,283<br/> 
 [INFO] Total images of datasets/horse-or-human/train is 1027<br/> 
 [INFO] Total images of datasets/horse-or-human/train/humans is 527<br/> 
 [INFO] Total images of datasets/horse-or-human/train/horses is 500<br/> 
@@ -56,7 +56,7 @@ Dataset from [kaggle](https://www.kaggle.com/sanikamal/horses-or-humans-dataset)
  
 
     
-[INFO] Total images of datasets/SportsClassification is 14362<br/> 
+[INFO] Total images of datasets/SportsClassification is 14,362<br/> 
 [INFO] Total images of datasets/SportsClassification/gymnastics is 711<br/> 
 [INFO] Total images of datasets/SportsClassification/wrestling is 601<br/> 
 [INFO] Total images of datasets/SportsClassification/football is 784<br/> 
@@ -86,21 +86,21 @@ Dataset from [kaggle](https://www.kaggle.com/sanikamal/horses-or-humans-dataset)
  ## Smile/noSmile dataset:
  Dataset from this [link](https://github.com/hromi/SMILEsmileD)  
  
-[INFO] Total images of datasets/SMILES is 13165<br/> 
-[INFO] Total images of datasets/SMILES/smiling is 3690<br/> 
-[INFO] Total images of datasets/SMILES/notsmiling is 9475<br/> 
+[INFO] Total images of datasets/SMILES is 13,165<br/> 
+[INFO] Total images of datasets/SMILES/smiling is 3,690<br/> 
+[INFO] Total images of datasets/SMILES/notsmiling is 9,475<br/> 
 
   ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_SMILES.png)
  
  ## Food5K: 
 Dataset from   [Kaggle](https://www.kaggle.com/binhminhs10/food5k)
 
-[INFO] Total images of datasets/food-5k is 5000<br/> 
-[INFO] Total images of datasets/food-5k/train is 3000<br/> 
-[INFO] Total images of datasets/food-5k/train/_noFood is 1500<br/> 
-[INFO] Total images of datasets/food-5k/train/food is 1500<br/> 
-[INFO] Total images of datasets/food-5k/evaluation is 1000<br/> 
-[INFO] Total images of datasets/food-5k/validation is 1000<br/> 
+[INFO] Total images of datasets/food-5k is 5,000<br/> 
+[INFO] Total images of datasets/food-5k/train is 3,000<br/> 
+[INFO] Total images of datasets/food-5k/train/_noFood is 1,500<br/> 
+[INFO] Total images of datasets/food-5k/train/food is 1,500<br/> 
+[INFO] Total images of datasets/food-5k/evaluation is 1,000<br/> 
+[INFO] Total images of datasets/food-5k/validation is 1,000<br/> 
 [INFO] Total images of datasets/food-5k/validation/_noFood is 500<br/> 
 [INFO] Total images of datasets/food-5k/validation/food is 500<br/> 
     
@@ -111,8 +111,8 @@ Dataset from   [Kaggle](https://www.kaggle.com/binhminhs10/food5k)
  
 The dataset from this [link](https://lhncbc.nlm.nih.gov/publication/pub9932)
 
-[INFO] Total images of datasets/NIHmalaria is 27558<br/> 
-[INFO] Total images of datasets/NIHmalaria/Parasitized is 13779<br/> 
-[INFO] Total images of datasets/NIHmalaria/Uninfected is 13779<br/> 
+[INFO] Total images of datasets/NIHmalaria is 27,558<br/> 
+[INFO] Total images of datasets/NIHmalaria/Parasitized is 13,779<br/> 
+[INFO] Total images of datasets/NIHmalaria/Uninfected is 13,779<br/> 
 
  ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_NIHmalaria.png)
