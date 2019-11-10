@@ -1,9 +1,17 @@
 # ML_Datasets
 
-and we can even [link](#head1234) to it so:
+
+The repo comes loaded with following datasets :
+ 1. [Santa/NoSanta:](#head1234) to it so:
+ 2. Dogs/Cats
+ 3. Human/Horses
+ 4. SportsClassification
+ 5. Smile/noSmile datset
+ 6. Food-5k
+ 7. NIH malaria dataset:
 
 
-The repo comes loaded with following datasets:
+
  1. Santa/NoSanta: initially collected  by  Adrian Rosebrock
  
  ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_Santa.png)
