@@ -22,26 +22,26 @@ initially collected  by  Adrian Rosebrock
 
 ## Dogs/Cats
 
-[INFO] Total images of datasets/cats_and_dogs is 3000 . 
-[INFO] Total images of datasets/cats_and_dogs/train is 2000 
-[INFO] Total images of datasets/cats_and_dogs/train/dogs is 1000 
-[INFO] Total images of datasets/cats_and_dogs/train/cats is 1000 
-[INFO] Total images of datasets/cats_and_dogs/validation is 1000 
-[INFO] Total images of datasets/cats_and_dogs/validation/dogs is 500 
-[INFO] Total images of datasets/cats_and_dogs/validation/cats is 500 
+[INFO] Total images of datasets/cats_and_dogs is 3000<br/>
+[INFO] Total images of datasets/cats_and_dogs/train is 2000<br/> 
+[INFO] Total images of datasets/cats_and_dogs/train/dogs is 1000<br/> 
+[INFO] Total images of datasets/cats_and_dogs/train/cats is 1000<br/> 
+[INFO] Total images of datasets/cats_and_dogs/validation is 1000<br/> 
+[INFO] Total images of datasets/cats_and_dogs/validation/dogs is 500<br/> 
+[INFO] Total images of datasets/cats_and_dogs/validation/cats is 500<br/> 
 
   ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_cats_and_dogs.png)
   
 ## Human/Horses   
 
 
-[INFO] Total images of datasets/horse-or-human is 1283 
-[INFO] Total images of datasets/horse-or-human/train is 1027 
-[INFO] Total images of datasets/horse-or-human/train/humans is 527 
-[INFO] Total images of datasets/horse-or-human/train/horses is 500 
-[INFO] Total images of datasets/horse-or-human/validation is 256 
-[INFO] Total images of datasets/horse-or-human/validation/humans is 128 
-[INFO] Total images of datasets/horse-or-human/validation/horses is 128 
+[INFO] Total images of datasets/horse-or-human is 1283<br/> 
+[INFO] Total images of datasets/horse-or-human/train is 1027<br/> 
+[INFO] Total images of datasets/horse-or-human/train/humans is 527<br/> 
+[INFO] Total images of datasets/horse-or-human/train/horses is 500<br/> 
+[INFO] Total images of datasets/horse-or-human/validation is 256<br/> 
+[INFO] Total images of datasets/horse-or-human/validation/humans is 128<br/> 
+[INFO] Total images of datasets/horse-or-human/validation/horses is 128<br/> 
 
   ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_horse-or-human.png)
   
