@@ -51,28 +51,30 @@ initially collected  by  Adrian Rosebrock
     ,Badminton,Wrestling,Olympic Shooting,Cricket,Football,Tennis,Hockey,Ice Hockey,Kabaddi,WWE,Gymnasium,Weight lifting,Volleyball,Table tennis,Baseball,Formula 1,Moto GP,Chess,Boxing,FencingBasketbal]
      ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_SportsClassification.png)
     
-[INFO] Total images of badminton is 928  
-[INFO] Total images of baseball is 731   
-[INFO] Total images of basketball is 490  
-[INFO] Total images of boxing is 704  
-[INFO] Total images of chess is 476 .  
-[INFO] Total images of cricket is 665 .  
-[INFO] Total images of fencing is 624 .  
-[INFO] Total images of football is 784 .  
-[INFO] Total images of formula1 is 676 .  
-[INFO] Total images of gymnastics is 711 .  
-[INFO] Total images of hockey is 569 .  
-[INFO] Total images of ice_hockey is 707 .  
-[INFO] Total images of kabaddi is 452 .  
-[INFO] Total images of motogp is 668 .  
-[INFO] Total images of shooting is 532 .  
-[INFO] Total images of swimming is 683 .  
-[INFO] Total images of table_tennis is 705 .  
-[INFO] Total images of tennis is 714 .  
-[INFO] Total images of volleyball is 703 .  
-[INFO] Total images of weight_lifting is 572 .  
-[INFO] Total images of wrestling is 601 .  
-[INFO] Total images of wwe is 667 .  
+[INFO] Total images of datasets/SportsClassification is 14362 
+[INFO] Total images of datasets/SportsClassification/gymnastics is 711 
+[INFO] Total images of datasets/SportsClassification/wrestling is 601 
+[INFO] Total images of datasets/SportsClassification/football is 784 
+[INFO] Total images of datasets/SportsClassification/cricket is 665 
+[INFO] Total images of datasets/SportsClassification/baseball is 731 
+[INFO] Total images of datasets/SportsClassification/ice_hockey is 707 
+[INFO] Total images of datasets/SportsClassification/wwe is 667 
+[INFO] Total images of datasets/SportsClassification/basketball is 490 
+[INFO] Total images of datasets/SportsClassification/table_tennis is 705 
+[INFO] Total images of datasets/SportsClassification/volleyball is 703 
+[INFO] Total images of datasets/SportsClassification/motogp is 668 
+[INFO] Total images of datasets/SportsClassification/fencing is 624 
+[INFO] Total images of datasets/SportsClassification/hockey is 569 
+[INFO] Total images of datasets/SportsClassification/swimming is 683 
+[INFO] Total images of datasets/SportsClassification/chess is 476 
+[INFO] Total images of datasets/SportsClassification/tennis is 714 
+[INFO] Total images of datasets/SportsClassification/badminton is 928 
+[INFO] Total images of datasets/SportsClassification/boxing is 704 
+[INFO] Total images of datasets/SportsClassification/weight_lifting is 572 
+[INFO] Total images of datasets/SportsClassification/kabaddi is 452 
+[INFO] Total images of datasets/SportsClassification/formula1 is 676 
+[INFO] Total images of datasets/SportsClassification/shooting is 532 
+ 
 
     
  ## Smile/noSmile dataset:
