@@ -24,6 +24,7 @@ Dataset  collected  by  [Adrian Rosebrock](https://www.pyimagesearch.com/2017/12
 
 ## Dogs/Cats
 
+Dataset from [kaggle](https://www.kaggle.com/c/dogs-vs-cats)
 [INFO] Total images of datasets/cats_and_dogs is 3000<br/>
 [INFO] Total images of datasets/cats_and_dogs/train is 2000<br/> 
 [INFO] Total images of datasets/cats_and_dogs/train/dogs is 1000<br/> 
@@ -35,6 +36,7 @@ Dataset  collected  by  [Adrian Rosebrock](https://www.pyimagesearch.com/2017/12
   ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_cats_and_dogs.png)
   
 ## Human/Horses   
+Dataset from [kaggle](https://www.kaggle.com/sanikamal/horses-or-humans-dataset)
 
 
 [INFO] Total images of datasets/horse-or-human is 1283<br/> 
@@ -48,7 +50,7 @@ Dataset  collected  by  [Adrian Rosebrock](https://www.pyimagesearch.com/2017/12
   ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_horse-or-human.png)
   
  ## SportsClassification:
- 22 types of sports in a total of 14,405 images, originally from this [link](https://github.com/anubhavmaity/Sports-Type-Classifier)). 
+ 22 types of sports in a total of 14,405 images, Daraset  from this [link](https://github.com/anubhavmaity/Sports-Type-Classifier)). 
  The type of sports are [Swimming ,Badminton,Wrestling,Olympic Shooting,Cricket,Football,Tennis,Hockey,Ice Hockey,Kabaddi,WWE,Gymnasium,Weight lifting,Volleyball,Table tennis,Baseball,Formula 1,Moto GP,Chess,Boxing,FencingBasketbal]
  
 
@@ -81,7 +83,7 @@ Dataset  collected  by  [Adrian Rosebrock](https://www.pyimagesearch.com/2017/12
  ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_SportsClassification.png)
  
  ## Smile/noSmile dataset:
- originally from this [link](https://github.com/hromi/SMILEsmileD)  
+ Dataset from this [link](https://github.com/hromi/SMILEsmileD)  
  
 It includes 13,165 images. Total images of notsmiling is 9475 and total images of smiling is 3690 
 
@@ -92,9 +94,7 @@ It includes 13,165 images. Total images of notsmiling is 9475 and total images o
   ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_SMILES.png)
  
  ## Food5K: 
- Total images of train is 3000 and total images of validation is 1000 
- a [Kaggle](https://www.kaggle.com/binhminhs10/food5k) dataset containing 2,500 food and 2,500 non-food images, originally from this [link](https://www.kaggle.com/binhminhs10/food5k/download))
- 
+Dataset from   [Kaggle](https://www.kaggle.com/binhminhs10/food5k)
 [INFO] Total images of datasets/food-5k is 5000<br/> 
 [INFO] Total images of datasets/food-5k/train is 3000<br/> 
 [INFO] Total images of datasets/food-5k/train/_noFood is 1500<br/> 
@@ -109,8 +109,7 @@ It includes 13,165 images. Total images of notsmiling is 9475 and total images o
 
  ## NIH malaria dataset:
  
- The dataset consists of 27,588 images belonging to two separate classes: Parasitized/ Uninfected.
- The number of images per class is 13,794 images per each. The dataset is  originally from this [link](https://lhncbc.nlm.nih.gov/publication/pub9932))
+The dataset from this [link](https://lhncbc.nlm.nih.gov/publication/pub9932))
 
 [INFO] Total images of datasets/NIHmalaria is 27558<br/> 
 [INFO] Total images of datasets/NIHmalaria/Parasitized is 13779<br/> 
