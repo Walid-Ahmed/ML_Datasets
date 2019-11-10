@@ -3,7 +3,7 @@
 
 The repo comes loaded with following datasets :
  1. [Santa/NoSanta](#head1234)
- 2. [Dogs/Cats(#head1234)
+ 2. [Dogs/Cats](#head1234)
  3. [Human/Horses](#head1234)
  4. [SportsClassification](#head1234)
  5. [Smile/noSmile](#head1234)
