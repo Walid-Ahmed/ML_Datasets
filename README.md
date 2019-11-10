@@ -28,11 +28,11 @@ initially collected  by  Adrian Rosebrock
      ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_SportsClassification.png)
     
 [INFO] Total images of badminton is 928  
-[INFO] Total images of baseball is 731 .  
-[INFO] Total images of basketball is 490 .  
-[INFO] Total images of boxing is 704 .  
-[INFO] Total images of chess is 476 
-[INFO] Total images of cricket is 665 
+[INFO] Total images of baseball is 731 
+[INFO] Total images of basketball is 490  
+[INFO] Total images of boxing is 704 
+[INFO] Total images of chess is 476 .  
+[INFO] Total images of cricket is 665 .  
 [INFO] Total images of fencing is 624 
 [INFO] Total images of football is 784 
 [INFO] Total images of formula1 is 676 
