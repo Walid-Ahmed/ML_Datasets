@@ -26,11 +26,11 @@ Dataset  collected  by  [Adrian Rosebrock](https://www.pyimagesearch.com/2017/12
 
 Dataset from [kaggle](https://www.kaggle.com/c/dogs-vs-cats)
 
-[INFO] Total images of datasets/cats_and_dogs is 3000<br/>
-[INFO] Total images of datasets/cats_and_dogs/train is 2000<br/> 
-[INFO] Total images of datasets/cats_and_dogs/train/dogs is 1000<br/> 
-[INFO] Total images of datasets/cats_and_dogs/train/cats is 1000<br/> 
-[INFO] Total images of datasets/cats_and_dogs/validation is 1000<br/> 
+[INFO] Total images of datasets/cats_and_dogs is 3,000<br/>
+[INFO] Total images of datasets/cats_and_dogs/train is 2,000<br/> 
+[INFO] Total images of datasets/cats_and_dogs/train/dogs is 1,000<br/> 
+[INFO] Total images of datasets/cats_and_dogs/train/cats is 1,000<br/> 
+[INFO] Total images of datasets/cats_and_dogs/validation is 1,000<br/> 
 [INFO] Total images of datasets/cats_and_dogs/validation/dogs is 500<br/> 
 [INFO] Total images of datasets/cats_and_dogs/validation/cats is 500<br/> 
 
@@ -41,7 +41,7 @@ Dataset from [kaggle](https://www.kaggle.com/sanikamal/horses-or-humans-dataset)
 
 
 [INFO] Total images of datasets/horse-or-human is 1,283<br/> 
-[INFO] Total images of datasets/horse-or-human/train is 1027<br/> 
+[INFO] Total images of datasets/horse-or-human/train is 1,027<br/> 
 [INFO] Total images of datasets/horse-or-human/train/humans is 527<br/> 
 [INFO] Total images of datasets/horse-or-human/train/horses is 500<br/> 
 [INFO] Total images of datasets/horse-or-human/validation is 256<br/> 
