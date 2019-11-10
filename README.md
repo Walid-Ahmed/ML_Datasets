@@ -50,7 +50,7 @@ Dataset from [kaggle](https://www.kaggle.com/sanikamal/horses-or-humans-dataset)
   ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_horse-or-human.png)
   
  ## SportsClassification:
- 22 types of sports in a total of 14,405 images, Daraset  from this [link](https://github.com/anubhavmaity/Sports-Type-Classifier)). 
+ 22 types of sports in a total of 14,405 images, Dataset  from this [link](https://github.com/anubhavmaity/Sports-Type-Classifier)). 
  The type of sports are [Swimming ,Badminton,Wrestling,Olympic Shooting,Cricket,Football,Tennis,Hockey,Ice Hockey,Kabaddi,WWE,Gymnasium,Weight lifting,Volleyball,Table tennis,Baseball,Formula 1,Moto GP,Chess,Boxing,FencingBasketbal]
  
 
@@ -85,8 +85,6 @@ Dataset from [kaggle](https://www.kaggle.com/sanikamal/horses-or-humans-dataset)
  ## Smile/noSmile dataset:
  Dataset from this [link](https://github.com/hromi/SMILEsmileD)  
  
-It includes 13,165 images. Total images of notsmiling is 9475 and total images of smiling is 3690 
-
 [INFO] Total images of datasets/SMILES is 13165<br/> 
 [INFO] Total images of datasets/SMILES/smiling is 3690<br/> 
 [INFO] Total images of datasets/SMILES/notsmiling is 9475<br/> 
