@@ -2,7 +2,7 @@
 
 
 The repo comes loaded with following datasets :
- 1. [Santa/NoSanta:](#head1234) to it so:
+ 1. [Santa/NoSanta](#head1234)
  2. Dogs/Cats
  3. Human/Horses
  4. SportsClassification
