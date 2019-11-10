@@ -10,10 +10,8 @@ The repo comes loaded with following datasets :
  6. [Food-5k](#head1234)
  7. [NIH malaria](#head1234)
 
-
-
- 1. Santa/NoSanta: initially collected  by  Adrian Rosebrock
- 
+[Santa/NoSanta]
+initially collected  by  Adrian Rosebrock 
  ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_Santa.png)
  2. Dogs/Cats
   ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_cats_and_dogs.png)
