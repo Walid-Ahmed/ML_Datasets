@@ -94,6 +94,7 @@ Dataset from [kaggle](https://www.kaggle.com/sanikamal/horses-or-humans-dataset)
  
  ## Food5K: 
 Dataset from   [Kaggle](https://www.kaggle.com/binhminhs10/food5k)
+
 [INFO] Total images of datasets/food-5k is 5000<br/> 
 [INFO] Total images of datasets/food-5k/train is 3000<br/> 
 [INFO] Total images of datasets/food-5k/train/_noFood is 1500<br/> 
@@ -108,7 +109,7 @@ Dataset from   [Kaggle](https://www.kaggle.com/binhminhs10/food5k)
 
  ## NIH malaria dataset:
  
-The dataset from this [link](https://lhncbc.nlm.nih.gov/publication/pub9932))
+The dataset from this [link](https://lhncbc.nlm.nih.gov/publication/pub9932)
 
 [INFO] Total images of datasets/NIHmalaria is 27558<br/> 
 [INFO] Total images of datasets/NIHmalaria/Parasitized is 13779<br/> 
