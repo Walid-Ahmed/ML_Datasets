@@ -22,6 +22,15 @@ initially collected  by  Adrian Rosebrock
 [INFO] Total images of datasets/Santa/santa is 461 
 
 ## Dogs/Cats
+
+[INFO] Total images of datasets/cats_and_dogs is 3000 
+[INFO] Total images of datasets/cats_and_dogs/train is 2000 
+[INFO] Total images of datasets/cats_and_dogs/train/dogs is 1000 
+[INFO] Total images of datasets/cats_and_dogs/train/cats is 1000 
+[INFO] Total images of datasets/cats_and_dogs/validation is 1000 
+[INFO] Total images of datasets/cats_and_dogs/validation/dogs is 500 
+[INFO] Total images of datasets/cats_and_dogs/validation/cats is 500 
+
   ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_cats_and_dogs.png)
   
 ## Human/Horses   
