@@ -1,4 +1,4 @@
-# ML_Datasets
+# Machine learning Datasets
 
 
 The repo comes loaded with following datasets :
