@@ -15,6 +15,12 @@ All what you need is to clone the repo, feel free to fork the repo and add more 
 ## Santa/NoSanta
 initially collected  by  Adrian Rosebrock 
  ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_Santa.png)
+ 
+ 
+ [INFO] Total images of datasets/Santa is 922 
+[INFO] Total images of datasets/Santa/not_santa is 461 
+[INFO] Total images of datasets/Santa/santa is 461 
+
 ## Dogs/Cats
   ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_cats_and_dogs.png)
   
