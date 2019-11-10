@@ -34,21 +34,21 @@ initially collected  by  Adrian Rosebrock
 [INFO] Total images of chess is 476 .  
 [INFO] Total images of cricket is 665 .  
 [INFO] Total images of fencing is 624 
-[INFO] Total images of football is 784 
-[INFO] Total images of formula1 is 676 
-[INFO] Total images of gymnastics is 711 
-[INFO] Total images of hockey is 569 
-[INFO] Total images of ice_hockey is 707 
-[INFO] Total images of kabaddi is 452 
-[INFO] Total images of motogp is 668 
-[INFO] Total images of shooting is 532 
-[INFO] Total images of swimming is 683 
-[INFO] Total images of table_tennis is 705 
-[INFO] Total images of tennis is 714 
-[INFO] Total images of volleyball is 703 
-[INFO] Total images of weight_lifting is 572 
-[INFO] Total images of wrestling is 601 
-[INFO] Total images of wwe is 667 
+[INFO] Total images of football is 784 .  
+[INFO] Total images of formula1 is 676 .  
+[INFO] Total images of gymnastics is 711 .  
+[INFO] Total images of hockey is 569 .  
+[INFO] Total images of ice_hockey is 707 .  
+[INFO] Total images of kabaddi is 452 .  
+[INFO] Total images of motogp is 668 .  
+[INFO] Total images of shooting is 532 .  
+[INFO] Total images of swimming is 683 .  
+[INFO] Total images of table_tennis is 705 .  
+[INFO] Total images of tennis is 714 .  
+[INFO] Total images of volleyball is 703 .  
+[INFO] Total images of weight_lifting is 572 .  
+[INFO] Total images of wrestling is 601 .  
+[INFO] Total images of wwe is 667 .  
 
     
  ## Smile/noSmile datset:
