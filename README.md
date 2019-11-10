@@ -14,11 +14,13 @@ All what you need is to clone the repo, feel free to fork the repo and add more 
 
 ## Santa/NoSanta
 initially collected  by  Adrian Rosebrock 
- ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_Santa.png)
+
  
 [INFO] Total images of datasets/Santa is 922<br/>
 [INFO] Total images of datasets/Santa/not_santa is 461<br/>
 [INFO] Total images of datasets/Santa/santa is 461<br/>
+
+ ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_Santa.png)
 
 ## Dogs/Cats
 
@@ -49,7 +51,7 @@ initially collected  by  Adrian Rosebrock
  22 types of sports in a total of 14,405 images, originally from this [link](https://github.com/anubhavmaity/Sports-Type-Classifier)). 
  The type of sports are [Swimming ,Badminton,Wrestling,Olympic Shooting,Cricket,Football,Tennis,Hockey,Ice Hockey,Kabaddi,WWE,Gymnasium,Weight lifting,Volleyball,Table tennis,Baseball,Formula 1,Moto GP,Chess,Boxing,FencingBasketbal]
  
-![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_SportsClassification.png)
+
     
 [INFO] Total images of datasets/SportsClassification is 14362<br/> 
 [INFO] Total images of datasets/SportsClassification/gymnastics is 711<br/> 
@@ -76,7 +78,8 @@ initially collected  by  Adrian Rosebrock
 [INFO] Total images of datasets/SportsClassification/shooting is 532<br/> 
  
 
-    
+ ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_SportsClassification.png)
+ 
  ## Smile/noSmile dataset:
  originally from this [link](https://github.com/hromi/SMILEsmileD)  
  
