@@ -82,6 +82,10 @@ initially collected  by  Adrian Rosebrock
  
 It includes 13,165 images. Total images of notsmiling is 9475 and total images of smiling is 3690 
 
+[INFO] Total images of datasets/SMILES is 13165 
+[INFO] Total images of datasets/SMILES/smiling is 3690 
+[INFO] Total images of datasets/SMILES/notsmiling is 9475 
+
   ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_SMILES.png)
  
  ## Food5K: 
