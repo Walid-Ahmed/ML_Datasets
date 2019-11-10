@@ -13,7 +13,7 @@ The repo comes loaded with following datasets :
 All what you need is to clone the repo, feel free to fork the repo and add more datasets
 
 ## Santa/NoSanta
-initially collected  by  Adrian Rosebrock 
+initially collected  by  [Adrian Rosebrock](https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/) 
 
  
 [INFO] Total images of datasets/Santa is 922<br/>
