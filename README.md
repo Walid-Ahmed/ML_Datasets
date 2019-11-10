@@ -22,7 +22,7 @@ initially collected  by  Adrian Rosebrock
 
 ## Dogs/Cats
 
-[INFO] Total images of datasets/cats_and_dogs is 3000 
+[INFO] Total images of datasets/cats_and_dogs is 3000 . 
 [INFO] Total images of datasets/cats_and_dogs/train is 2000 
 [INFO] Total images of datasets/cats_and_dogs/train/dogs is 1000 
 [INFO] Total images of datasets/cats_and_dogs/train/cats is 1000 
