@@ -61,6 +61,15 @@ It includes 13,165 images. Total images of notsmiling is 9475 and total images o
  ## Food5K: 
  Total images of train is 3000 and total images of validation is 1000 
  a [Kaggle](https://www.kaggle.com/binhminhs10/food5k) dataset containing 2,500 food and 2,500 non-food images, originally from this [link](https://www.kaggle.com/binhminhs10/food5k/download))
+ 
+[INFO] Total images of datasets/food-5k is 5000 
+[INFO] Total images of datasets/food-5k/train is 3000 
+[INFO] Total images of datasets/food-5k/train/_noFood is 1500 
+[INFO] Total images of datasets/food-5k/train/food is 1500 
+[INFO] Total images of datasets/food-5k/evaluation is 1000 
+[INFO] Total images of datasets/food-5k/validation is 1000 
+[INFO] Total images of datasets/food-5k/validation/_noFood is 500 
+[INFO] Total images of datasets/food-5k/validation/food is 500 
     
 ![Sample curve output from training cats vs dogs dataset]( https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_Food-5K.png)
    
