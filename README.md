@@ -2,13 +2,13 @@
 
 
 The repo comes loaded with following datasets :
- 1. [Santa/NoSanta](#head1234)
+ 1. [Santa/NoSanta](#santanosanta)
  2. [Dogs/Cats](#dogscats)
- 3. [Human/Horses](#head1234)
+ 3. [Human/Horses](#humanhorses)
  4. [SportsClassification](#sportsclassification)
- 5. [Smile/noSmile](#head1234)
- 6. [Food-5k](#head1234)
- 7. [NIH malaria](#head1234)
+ 5. [Smile/noSmile](#smilenosmile)
+ 6. [Food-5k](#food5k)
+ 7. [NIH malaria](#nih-malaria-dataset)
  
 All what you need is to clone the repo, feel free to fork the repo and add more datasets
 
