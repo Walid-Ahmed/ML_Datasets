@@ -9,6 +9,7 @@ The repo comes loaded with following datasets :
  5. [Smile/noSmile](#smilenosmile-dataset)
  6. [Food-5k](#food5k)
  7. [NIH malaria](#nih-malaria-dataset)
+ 8. Cyclone_Wildfire_Flood_Earthquake_Database
  
 All what you need is to clone the repo, feel free to fork the repo and add more datasets, more to be added soon.
 
