@@ -11,7 +11,9 @@ The repo comes loaded with following datasets :
  7. [NIH malaria](#nih-malaria-dataset)
  8. [Cyclone_Wildfire_Flood_Earthquake_Database](#cyclone_wildfire_flood_earthquake_database)
  
-All what you need is to clone the repo, feel free to fork the repo and add more datasets, more to be added soon.
+All what you need is to clone the repo, feel free to fork the repo and add more datasets, more to be added soon. You can also run the script exploreDataset.py to get insight on the dataset. for example:
+
+python exploreDataset.py  --datasetDir  Cyclone_Wildfire_Flood_Earthquake_Database    --channels  3
 
 ## Santa/NoSanta
 Dataset  collected  by  [Adrian Rosebrock](https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/) 
