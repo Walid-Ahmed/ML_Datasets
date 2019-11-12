@@ -1,12 +1,13 @@
 
 #usage
-#python exploreDataset.py. --datasetDir  Cyclone_Wildfire_Flood_Earthquake_Database    -- channels  3
+#python exploreDataset.py --datasetDir  Cyclone_Wildfire_Flood_Earthquake_Database    --channels  3
 
 
 import os
 import matplotlib.image as mpimg
 import matplotlib.pyplot as plt
 import argparse
+import random
 
 
 image_types = (".jpg", ".jpeg", ".png", ".bmp", ".tif", ".tiff",".ppm")
@@ -48,51 +49,46 @@ def getTrainStatistics2(datasetDir):
 
 
 
-    def drarwGridOfImages(dataSetDir,fileNameToSaveImage=None,channels=3):
+def drarwGridOfImages(dataSetDir,fileNameToSaveImage=None,channels=3):
+
+    	imagePaths = sorted(list(list_images(dataSetDir)))
 
 
 
-	  #print(train_label1_fnames[:10])
-	  #print(train_label2_fnames[:10])
-	  imagePaths = sorted(list(paths.list_images(dataSetDir)))
+    	# Parameters for our graph; we'll output images in a 4x4 configuration
+    	nrows = 4
+    	ncols = 4
 
+    	pic_index = 0 # Index for iterating over images
 
+    	#display a batch of 4*4 pictures
+    	# Set up matplotlib fig, and size it to fit 4x4 pics
+    	fig = plt.gcf()
+    	fig.set_size_inches(ncols*4, nrows*4)
 
-	  # Parameters for our graph; we'll output images in a 4x4 configuration
-	  nrows = 4
-	  ncols = 4
-
-	  pic_index = 0 # Index for iterating over images
-
-	  #display a batch of 4*4 pictures
-
-	  # Set up matplotlib fig, and size it to fit 4x4 pics
-	  fig = plt.gcf()
-	  fig.set_size_inches(ncols*4, nrows*4)
-
-	  pic_index+=8
-	  random.shuffle(imagePaths)
-	  imagePaths=imagePaths[0:16]
+    	pic_index+=8
+    	random.shuffle(imagePaths)
+    	imagePaths=imagePaths[0:16]
 
 
 
 
 
-	  for i, img_path in enumerate(imagePaths):
-	    # Set up subplot; subplot indices start at 1
-	    sp = plt.subplot(nrows, ncols, i + 1)
-	    sp.axis('Off') # Don't show axes (or gridlines)
+    	for i, img_path in enumerate(imagePaths):
+		    # Set up subplot; subplot indices start at 1
+		    sp = plt.subplot(nrows, ncols, i + 1)
+		    sp.axis('Off') # Don't show axes (or gridlines)
 
-	    if (channels==3):
-	      img = mpimg.imread(img_path)
-	    else:
-	      img=Image.open(img_path).convert('L')
-	    plt.imshow(img)
+		    if (channels==3):
+		      img = mpimg.imread(img_path)
+		    else:
+		      img=Image.open(img_path).convert('L')
+		    plt.imshow(img)
 	 
 
-	  if(fileNameToSaveImage != None):
-	    plt.savefig(fileNameToSaveImage)
-	  plt.show()
+    	if(fileNameToSaveImage != None):
+	    	plt.savefig(fileNameToSaveImage)
+    	plt.show()
 
 
 if __name__ == "__main__":
@@ -112,7 +108,7 @@ if __name__ == "__main__":
 
 
 
-	getTrainStatistics2(datasetDir)
-	drarwGridOfImages(dataSetDir,fileNameToSaveImage,channels)
+    getTrainStatistics2(datasetDir)
+    drarwGridOfImages(datasetDir,fileNameToSaveImage,channels)
 
 
