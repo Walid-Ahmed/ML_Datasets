@@ -117,3 +117,12 @@ The dataset from this [link](https://lhncbc.nlm.nih.gov/publication/pub9932)
 [INFO] Total images of datasets/NIHmalaria/Uninfected is 13,779<br/> 
 
  ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_NIHmalaria.png)
+ 
+ 
+ 
+ ## Cyclone_Wildfire_Flood_Earthquake_Database
+[INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database is 4428 <br/> 
+[INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database/Flood is 1073 <br/> 
+[INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database/Wildfire is 1077 <br/> 
+[INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database/Earthquake is 1350 <br/> 
+[INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database/Cyclone is 928 <br/> 
