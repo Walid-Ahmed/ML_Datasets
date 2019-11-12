@@ -9,7 +9,7 @@ The repo comes loaded with following datasets :
  5. [Smile/noSmile](#smilenosmile-dataset)
  6. [Food-5k](#food5k)
  7. [NIH malaria](#nih-malaria-dataset)
- 8. Cyclone_Wildfire_Flood_Earthquake_Database
+ 8. [Cyclone_Wildfire_Flood_Earthquake_Database](#cyclone_wildfire_flood_earthquake_database)
  
 All what you need is to clone the repo, feel free to fork the repo and add more datasets, more to be added soon.
 
@@ -117,3 +117,15 @@ The dataset from this [link](https://lhncbc.nlm.nih.gov/publication/pub9932)
 [INFO] Total images of datasets/NIHmalaria/Uninfected is 13,779<br/> 
 
  ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/sample_NIHmalaria.png)
+ 
+ 
+ 
+ ## Cyclone_Wildfire_Flood_Earthquake_Database
+ 
+The dataset is collected by [Gautam Kumar](https://www.linkedin.com/in/gautam-kumar-65399150/)
+
+[INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database is 4428 <br/> 
+[INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database/Flood is 1073 <br/> 
+[INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database/Wildfire is 1077 <br/> 
+[INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database/Earthquake is 1350 <br/> 
+[INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database/Cyclone is 928 <br/> 
