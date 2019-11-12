@@ -123,6 +123,7 @@ The dataset from this [link](https://lhncbc.nlm.nih.gov/publication/pub9932)
  ## Cyclone_Wildfire_Flood_Earthquake_Database
  
 The dataset is collected by [Gautam Kumar](https://www.linkedin.com/in/gautam-kumar-65399150/)
+
 [INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database is 4428 <br/> 
 [INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database/Flood is 1073 <br/> 
 [INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database/Wildfire is 1077 <br/> 
