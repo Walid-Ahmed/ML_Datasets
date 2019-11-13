@@ -146,3 +146,6 @@ The dataset is collected by [Gautam Kumar](https://www.linkedin.com/in/gautam-ku
 [INFO] Total images of idc/validation is 22201 <br/> 
 [INFO] Total images of idc/validation/0 is 15962 <br/> 
 [INFO] Total images of idc/validation/1 is 6239 <br/> 
+
+ ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/demoImageIDC.png
+)
