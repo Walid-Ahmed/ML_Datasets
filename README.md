@@ -10,8 +10,11 @@ The repo comes loaded with following datasets :
  6. [Food-5k](#food5k)
  7. [NIH malaria](#nih-malaria-dataset)
  8. [Cyclone_Wildfire_Flood_Earthquake_Database](#cyclone_wildfire_flood_earthquake_database)
+ 9. idc
  
-All what you need is to clone the repo, feel free to fork the repo and add more datasets, more to be added soon.
+All what you need is to clone the repo, feel free to fork the repo and add more datasets, more to be added soon. You can also run the script exploreDataset.py to get insight on the dataset. for example:
+
+python exploreDataset.py  --datasetDir  Cyclone_Wildfire_Flood_Earthquake_Database    --channels  3
 
 ## Santa/NoSanta
 Dataset  collected  by  [Adrian Rosebrock](https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/) 
@@ -129,3 +132,20 @@ The dataset is collected by [Gautam Kumar](https://www.linkedin.com/in/gautam-ku
 [INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database/Wildfire is 1077 <br/> 
 [INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database/Earthquake is 1350 <br/> 
 [INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database/Cyclone is 928 <br/> 
+
+
+ ## idc dataset:
+
+[INFO] Total images of idc is 277524 <br/> 
+[INFO] Total images of idc/training is 199818 <br/> 
+[INFO] Total images of idc/training/0 is 143065 <br/> 
+[INFO] Total images of idc/training/1 is 56753 <br/> 
+[INFO] Total images of idc/testing is 55505 <br/> 
+[INFO] Total images of idc/testing/0 is 39711 <br/> 
+[INFO] Total images of idc/testing/1 is 15794 <br/> 
+[INFO] Total images of idc/validation is 22201 <br/> 
+[INFO] Total images of idc/validation/0 is 15962 <br/> 
+[INFO] Total images of idc/validation/1 is 6239 <br/> 
+
+ ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/demoImageIDC.png
+)
