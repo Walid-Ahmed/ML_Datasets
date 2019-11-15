@@ -16,6 +16,8 @@ All what you need is to clone the repo, feel free to fork the repo and add more 
 
 python exploreDataset.py  --datasetDir  Cyclone_Wildfire_Flood_Earthquake_Database    --channels  3
 
+
+
 ## Santa/NoSanta
 Dataset  collected  by  [Adrian Rosebrock](https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/) 
 
