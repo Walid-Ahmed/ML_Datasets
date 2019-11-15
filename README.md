@@ -10,7 +10,7 @@ The repo comes loaded with following datasets :
  6. [Food-5k](#food5k)
  7. [NIH malaria](#nih-malaria-dataset)
  8. [Cyclone_Wildfire_Flood_Earthquake_Database](#cyclone_wildfire_flood_earthquake_database)
- 9. idc
+ 9. [Breast Cancer dataset(idc)]()
  
 All what you need is to clone the repo, feel free to fork the repo and add more datasets, more to be added soon. You can also run the script exploreDataset.py to get insight on the dataset. for example:
 
@@ -134,7 +134,7 @@ The dataset is collected by [Gautam Kumar](https://www.linkedin.com/in/gautam-ku
 [INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database/Cyclone is 928 <br/> 
 
 
- ## idc dataset:
+ ## Breast Cancer dataset(idc):
 
 [INFO] Total images of idc is 277524 <br/> 
 [INFO] Total images of idc/training is 199818 <br/> 
