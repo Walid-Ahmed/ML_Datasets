@@ -136,6 +136,8 @@ The dataset is collected by [Gautam Kumar](https://www.linkedin.com/in/gautam-ku
 
  ## Breast Cancer dataset(idc):
 
+The orignal dataset is from [Kaggle](https://www.kaggle.com/paultimothymooney/breast-histopathology-images/downloads/IDC_regular_ps50_idx5.zip/1) however a great job is done by  by  [Adrian Rosebrock](https://www.pyimagesearch.com/2019/02/18/breast-cancer-classification-with-keras-and-deep-learning/)  to format the data to be ready for training, these formated data is the one  included in repo.
+
 [INFO] Total images of idc is 277524 <br/> 
 [INFO] Total images of idc/training is 199818 <br/> 
 [INFO] Total images of idc/training/0 is 143065 <br/> 
