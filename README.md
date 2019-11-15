@@ -153,3 +153,8 @@ The orignal dataset is from [Kaggle](https://www.kaggle.com/paultimothymooney/br
 
  ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/demoImageIDC.png
 )
+
+#
+This dataset contains 8 outdoor scene categories: coast, mountain, forest, open country, street, inside city, tall buildings and highways.
+https://people.csail.mit.edu/torralba/code/spatialenvelope/
+
