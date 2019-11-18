@@ -130,10 +130,10 @@ The dataset from this [link](https://lhncbc.nlm.nih.gov/publication/pub9932)
  
 The dataset is collected by [Gautam Kumar](https://www.linkedin.com/in/gautam-kumar-65399150/)
 
-[INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database is 4428 <br/> 
-[INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database/Flood is 1073 <br/> 
-[INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database/Wildfire is 1077 <br/> 
-[INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database/Earthquake is 1350 <br/> 
+[INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database is 4,428 <br/> 
+[INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database/Flood is 1,073 <br/> 
+[INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database/Wildfire is 1,077 <br/> 
+[INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database/Earthquake is 1,350 <br/> 
 [INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database/Cyclone is 928 <br/> 
 ![sample_disaster](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/demoImageDisaster.png)
 
@@ -141,16 +141,16 @@ The dataset is collected by [Gautam Kumar](https://www.linkedin.com/in/gautam-ku
 
 The orignal dataset is from [Kaggle](https://www.kaggle.com/paultimothymooney/breast-histopathology-images/downloads/IDC_regular_ps50_idx5.zip/1) however a great job is done by  by  [Adrian Rosebrock](https://www.pyimagesearch.com/2019/02/18/breast-cancer-classification-with-keras-and-deep-learning/)  to format the data to be ready for training, this formated data is the one  included in repo.
 
-[INFO] Total images of idc is 277524 <br/> 
-[INFO] Total images of idc/training is 199818 <br/> 
-[INFO] Total images of idc/training/0 is 143065 <br/> 
-[INFO] Total images of idc/training/1 is 56753 <br/> 
-[INFO] Total images of idc/testing is 55505 <br/> 
-[INFO] Total images of idc/testing/0 is 39711 <br/> 
-[INFO] Total images of idc/testing/1 is 15794 <br/> 
-[INFO] Total images of idc/validation is 22201 <br/> 
-[INFO] Total images of idc/validation/0 is 15962 <br/> 
-[INFO] Total images of idc/validation/1 is 6239 <br/> 
+[INFO] Total images of idc is 277,524 <br/> 
+[INFO] Total images of idc/training is 199,818 <br/> 
+[INFO] Total images of idc/training/0 is 143,065 <br/> 
+[INFO] Total images of idc/training/1 is 56,753 <br/> 
+[INFO] Total images of idc/testing is 55,505 <br/> 
+[INFO] Total images of idc/testing/0 is 39,711 <br/> 
+[INFO] Total images of idc/testing/1 is 15,794 <br/> 
+[INFO] Total images of idc/validation is 22,201 <br/> 
+[INFO] Total images of idc/validation/0 is 15,962 <br/> 
+[INFO] Total images of idc/validation/1 is 6,239 <br/> 
 
  ![Sample curve output from training cats vs dogs dataset](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/demoImageIDC.png
 )
