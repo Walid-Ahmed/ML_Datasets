@@ -134,7 +134,7 @@ The dataset is collected by [Gautam Kumar](https://www.linkedin.com/in/gautam-ku
 [INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database/Wildfire is 1077 <br/> 
 [INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database/Earthquake is 1350 <br/> 
 [INFO] Total images of Cyclone_Wildfire_Flood_Earthquake_Database/Cyclone is 928 <br/> 
-
+![sample_disaster](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/demoImageDisaster.png)
 
  ## Breast Cancer dataset(idc):
 
