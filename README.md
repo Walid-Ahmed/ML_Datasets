@@ -169,5 +169,5 @@ This dataset contains 8 outdoor scene categories: coast, mountain, forest, open 
 [INFO] Total images of spatial_envelope_256x256_static_8outdoorcategories/mountain is 374 <br/>
 [INFO] Total images of spatial_envelope_256x256_static_8outdoorcategories/opencountry is 410 <br/>
 
-!(sample)[https://github.com/Walid-Ahmed/ML_Datasets/blob/master/demoImageScene.png]
+![sample](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/demoImageScene.png]
 
