@@ -159,13 +159,13 @@ The orignal dataset is from [Kaggle](https://www.kaggle.com/paultimothymooney/br
 This dataset contains 8 outdoor scene categories: coast, mountain, forest, open country, street, inside city, tall buildings and highways. it is originly from this [link](https://people.csail.mit.edu/torralba/code/spatialenvelope/
 )
 
-[INFO] Total images of spatial_envelope_256x256_static_8outdoorcategories is 2688 
-[INFO] Total images of spatial_envelope_256x256_static_8outdoorcategories/forest is 328 
-[INFO] Total images of spatial_envelope_256x256_static_8outdoorcategories/highway is 260 
-[INFO] Total images of spatial_envelope_256x256_static_8outdoorcategories/coast is 360 
-[INFO] Total images of spatial_envelope_256x256_static_8outdoorcategories/insidecity is 308 
-[INFO] Total images of spatial_envelope_256x256_static_8outdoorcategories/tallbuilding is 356 
-[INFO] Total images of spatial_envelope_256x256_static_8outdoorcategories/street is 292 
-[INFO] Total images of spatial_envelope_256x256_static_8outdoorcategories/mountain is 374 
-[INFO] Total images of spatial_envelope_256x256_static_8outdoorcategories/opencountry is 410 
+[INFO] Total images of spatial_envelope_256x256_static_8outdoorcategories is 2,688  <br/>
+[INFO] Total images of spatial_envelope_256x256_static_8outdoorcategories/forest is 328  <br/>
+[INFO] Total images of spatial_envelope_256x256_static_8outdoorcategories/highway is 260 <br/>
+[INFO] Total images of spatial_envelope_256x256_static_8outdoorcategories/coast is 360 <br/>
+[INFO] Total images of spatial_envelope_256x256_static_8outdoorcategories/insidecity is 308 <br/>
+[INFO] Total images of spatial_envelope_256x256_static_8outdoorcategories/tallbuilding is 356 <br/>
+[INFO] Total images of spatial_envelope_256x256_static_8outdoorcategories/street is 292 <br/>
+[INFO] Total images of spatial_envelope_256x256_static_8outdoorcategories/mountain is 374 <br/>
+[INFO] Total images of spatial_envelope_256x256_static_8outdoorcategories/opencountry is 410 <br/>
 
