@@ -1,6 +1,6 @@
 
 #usage
-#python exploreDataset.py --datasetDir  Cyclone_Wildfire_Flood_Earthquake_Database    --channels  3
+#python exploreDataset.py --datasetDir  FacialExpression    --channels  1
 
 
 import os
@@ -8,6 +8,8 @@ import matplotlib.image as mpimg
 import matplotlib.pyplot as plt
 import argparse
 import random
+from PIL import Image
+
 
 
 image_types = (".jpg", ".jpeg", ".png", ".bmp", ".tif", ".tiff",".ppm")
