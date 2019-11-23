@@ -176,13 +176,13 @@ This dataset contains 8 outdoor scene categories: coast, mountain, forest, open 
 
 # FacialExpression
 
-[INFO] Total images of FacialExpression is 35887<br/> 
-[INFO] Total images of FacialExpression/Happy is 8989<br/> 
-[INFO] Total images of FacialExpression/Sad is 6077<br/> 
-[INFO] Total images of FacialExpression/Fear is 5121<br/> 
-[INFO] Total images of FacialExpression/Surprise is 4002<br/> 
-[INFO] Total images of FacialExpression/Neutral is 6198<br/> 
-[INFO] Total images of FacialExpression/Angry is 4953<br/> 
+[INFO] Total images of FacialExpression is 35,887<br/> 
+[INFO] Total images of FacialExpression/Happy is 8,989<br/> 
+[INFO] Total images of FacialExpression/Sad is 6,077<br/> 
+[INFO] Total images of FacialExpression/Fear is 5,121<br/> 
+[INFO] Total images of FacialExpression/Surprise is 4,002<br/> 
+[INFO] Total images of FacialExpression/Neutral is 6,198<br/> 
+[INFO] Total images of FacialExpression/Angry is 4,953<br/> 
 [INFO] Total images of FacialExpression/Disgust is 547<br/> 
 
 ![sample](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/sampleImages/demoImageFaceExp.png)
