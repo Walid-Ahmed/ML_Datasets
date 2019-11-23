@@ -184,6 +184,6 @@ This dataset contains 8 outdoor scene categories: coast, mountain, forest, open 
 [INFO] Total images of FacialExpression/Angry is 4953 
 [INFO] Total images of FacialExpression/Disgust is 547 
 
-![sample](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/demoImageScene.png)
+![sample](https://github.com/Walid-Ahmed/ML_Datasets/blob/master/demoImageFaceExp)
 
 
