@@ -12,6 +12,7 @@ The repo comes loaded with following datasets :
  8. [Cyclone_Wildfire_Flood_Earthquake_Database](#cyclone_wildfire_flood_earthquake_database)
  9. [Breast Cancer dataset(idc)](#breast-cancer-datasetidc)
  10. [spatial_envelope_256x256_static_8outdoorcategories](#spatial_envelope_256x256_static_8outdoorcategories)
+ 11.[Facial Expression](#facialexpression)
  
 All what you need is to clone the repo, feel free to fork the repo and add more datasets, more to be added soon. You can also run the script exploreDataset.py to get insight on the dataset. for example:
 
